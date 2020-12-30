@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/weather-graph/static/js/main.f5a6254e.chunk.js",
+    "main.js.map": "/weather-graph/static/js/main.f5a6254e.chunk.js.map",
+    "runtime-main.js": "/weather-graph/static/js/runtime-main.7a3fef6b.js",
+    "runtime-main.js.map": "/weather-graph/static/js/runtime-main.7a3fef6b.js.map",
+    "static/js/2.f5897432.chunk.js": "/weather-graph/static/js/2.f5897432.chunk.js",
+    "static/js/2.f5897432.chunk.js.map": "/weather-graph/static/js/2.f5897432.chunk.js.map",
+    "index.html": "/weather-graph/index.html",
+    "static/js/2.f5897432.chunk.js.LICENSE.txt": "/weather-graph/static/js/2.f5897432.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a3fef6b.js",
+    "static/js/2.f5897432.chunk.js",
+    "static/js/main.f5a6254e.chunk.js"
+  ]
+}

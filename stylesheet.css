@@ -1,0 +1,12 @@
+.tddiv{
+    width: 200px;
+    height: 150px;
+}
+ .gmnoprint{
+   
+    display: block !important;
+}
+.gmnoprint button{
+    font-size: 12px !important;
+    height: 16px !important;
+}
